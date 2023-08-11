@@ -1,0 +1,5 @@
+{
+	"maxParallelism": 5,
+	"serverConnectionString": "server connection string containing all the databases to query",
+	"databaseList": ["database1", "database2"]
+}
